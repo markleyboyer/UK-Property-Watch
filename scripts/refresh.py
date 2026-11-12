@@ -31,6 +31,7 @@ HEADERS = {
 HINT_RE = re.compile(
     r"\b(sold stc|sold subject to contract|sstc|under offer|sale agreed|sold|withdrawn|"
     r"no longer available|off the market)\b", re.I)
+SKIP_URL_RE = re.compile(r"logo|favicon|placeholder|sprite|no[-_]?image|default[-_]", re.I)
 MIN_WIDTH = 300           # rejects 1x1 trackers / logos
 MAX_SIDE = 900
 META_RE = re.compile(r"<meta\b[^>]*>", re.I)
@@ -94,6 +95,8 @@ def fetch_image(url, referer):
     r = requests.get(url, headers={**HEADERS, "Referer": referer,
                                    "Accept": "image/avif,image/webp,image/*,*/*;q=0.8"}, timeout=30)
     r.raise_for_status()
+    if len(r.content) < 20_000:                       # logos / placeholders are tiny files
+        raise ValueError(f"file too small ({len(r.content)} bytes)")
     img = Image.open(io.BytesIO(r.content))
     img.load()
     if img.width < MIN_WIDTH:
@@ -154,6 +157,8 @@ def main():
             continue
         got = False
         for url in cands:
+            if SKIP_URL_RE.search(url):
+                continue
             try:
                 img = fetch_image(url, link or url)
             except Exception as e:                      # try the next candidate

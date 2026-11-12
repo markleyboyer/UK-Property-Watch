@@ -4,8 +4,6 @@ on:
   schedule:
     - cron: "17 5 */2 * *"      # every second day, ~05:17 UTC
   workflow_dispatch: {}         # "Run workflow" button in the Actions tab
-  push:                         # TEMP-TEST: remove before merge
-    branches: [claude/data-pipeline]
 
 permissions:
   contents: write

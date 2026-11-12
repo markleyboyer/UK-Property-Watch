@@ -694,13 +694,14 @@
    "score": "",
    "link": "https://www.rightmove.co.uk/property-for-sale/CV36.html",
    "image_hint": "",
-   "thumb": "images/barcheston-mill.jpg",
-   "thumb_source": "https://media.rightmove.co.uk/assets/shared-assets/logos/logo-share-fb.png",
+   "thumb": "",
+   "thumb_source": "",
    "check": {
     "at": "2026-11-12T19:42Z",
     "http": 200,
     "state": "ok"
-   }
+   },
+   "note": "Link is a postcode search page, not the listing; needs a specific listing URL."
   },
   {
    "id": "hole-farm",
