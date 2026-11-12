@@ -4,6 +4,8 @@ on:
   schedule:
     - cron: "17 5 */2 * *"      # every second day, ~05:17 UTC
   workflow_dispatch: {}         # "Run workflow" button in the Actions tab
+  push:                         # TEMP-TEST: remove before merge
+    branches: [claude/data-pipeline]
 
 permissions:
   contents: write
@@ -19,8 +21,6 @@ jobs:
     timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
-        with:
-          ref: main
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
