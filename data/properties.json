@@ -5,9 +5,9 @@
   {
    "id": "dinhams-bridge",
    "name": "Dinhams Bridge",
-   "place": "Open listing gallery",
+   "place": "St Mabyn, Bodmin, Cornwall",
    "price": "£950,000",
-   "status": "Previously tracked",
+   "status": "Listing removed from Zoopla · checked 12 Nov 2026",
    "date": "6 Oct or earlier",
    "summary": "River Allen frontage + fishing rights · 2+ acres · mature gardens · trout pond · woodland",
    "fish": "River Allen frontage + fishing rights · 2+ acres · mature gardens · trout pond · woodland",
@@ -22,14 +22,17 @@
     "at": "2026-11-12T19:42Z",
     "http": 403,
     "state": "blocked"
-   }
+   },
+   "lat": 50.5107,
+   "lon": -4.8012,
+   "geo": "locality"
   },
   {
    "id": "riverside-house",
    "name": "Riverside House",
-   "place": "Rattray, Perthshire",
-   "price": "£599,999",
-   "status": "Previously reported · status not reverified",
+   "place": "Rattray / Blairgowrie, Perthshire",
+   "price": "£625,000",
+   "status": "For sale · checked 12 Nov 2026",
    "date": "October 2026",
    "summary": "Victorian stone house; mature gardens by River Ericht.",
    "fish": "Fishing advertised",
@@ -37,21 +40,24 @@
    "risks": "Fishing title; river flood risk",
    "score": "",
    "link": "https://www.primelocation.com/for-sale/details/74365621/",
-   "image_hint": "https://media.rightmove.co.uk/dir/99k/98538/93705798/98538_33790753_IMG_00_0000_max_656x437.jpeg",
+   "image_hint": "https://lc.zoocdn.com/9951619ad17bb49a774d23faac6eeec79eb6e8a8.jpg",
    "thumb": "",
    "thumb_source": "",
    "check": {
     "at": "2026-11-12T19:42Z",
     "http": 403,
     "state": "blocked"
-   }
+   },
+   "lat": 56.598,
+   "lon": -3.337,
+   "geo": "locality"
   },
   {
    "id": "rhydlewis-country-house",
    "name": "Rhydlewis country house",
-   "place": "Open listing gallery",
+   "place": "Rhydlewis, Ceredigion",
    "price": "£500,000",
-   "status": "Previously tracked",
+   "status": "For sale · checked 12 Nov 2026",
    "date": "6 Oct or earlier",
    "summary": "Character house · rural grounds · River Ceri fishing rights · equestrian potential",
    "fish": "Character house · rural grounds · River Ceri fishing rights · equestrian potential",
@@ -66,7 +72,10 @@
     "at": "2026-11-12T19:42Z",
     "http": 403,
     "state": "blocked"
-   }
+   },
+   "lat": 52.064,
+   "lon": -4.417,
+   "geo": "locality"
   },
   {
    "id": "the-milton",
@@ -93,7 +102,7 @@
   {
    "id": "boat-road",
    "name": "Boat Road",
-   "place": "Open listing gallery",
+   "place": "Bellingham, Northumberland",
    "price": "£650,000",
    "status": "Previously tracked",
    "date": "6 Oct or earlier",
@@ -110,12 +119,15 @@
     "at": "2026-11-12T19:42Z",
     "http": 200,
     "state": "ok"
-   }
+   },
+   "lat": 55.147,
+   "lon": -2.237,
+   "geo": "locality"
   },
   {
    "id": "eden-grange",
    "name": "Eden Grange",
-   "place": "Open listing gallery",
+   "place": "Outhgill, Kirkby Stephen, Cumbria",
    "price": "£1,000,000",
    "status": "Previously tracked",
    "date": "6 Oct or earlier",
@@ -132,14 +144,17 @@
     "at": "2026-11-12T19:42Z",
     "http": 200,
     "state": "ok"
-   }
+   },
+   "lat": 54.4417,
+   "lon": -2.3322,
+   "geo": "locality"
   },
   {
    "id": "greystead-rectory",
    "name": "Greystead Rectory",
-   "place": "Open listing gallery",
+   "place": "Greystead, North Tyne, Northumberland",
    "price": "£1,500,000",
-   "status": "Previously tracked",
+   "status": "For sale · checked 12 Nov 2026",
    "date": "6 Oct or earlier",
    "summary": "Grade II Georgian rectory + coach house · North Tyne frontage/fishing · walled garden",
    "fish": "Grade II Georgian rectory + coach house · North Tyne frontage/fishing · walled garden",
@@ -147,21 +162,24 @@
    "risks": "Listing status and rights require reconfirmation",
    "score": "92/100",
    "link": "https://www.onthemarket.com/details/18064325/",
-   "image_hint": "https://media.onthemarket.com/properties/18064325/1554975010/image-0-1024x1024.jpg",
+   "image_hint": "https://media.onthemarket.com/properties/18064325/1614336096/image-0-1024x1024.jpg",
    "thumb": "images/greystead-rectory.jpg",
    "thumb_source": "https://media.onthemarket.com/properties/18064325/1614336096/image-0-1024x1024.jpg",
    "check": {
     "at": "2026-11-12T19:42Z",
     "http": 200,
     "state": "ok"
-   }
+   },
+   "lat": 55.155,
+   "lon": -2.47,
+   "geo": "locality"
   },
   {
    "id": "mill-barn",
    "name": "Mill Barn",
-   "place": "Open listing gallery",
+   "place": "Great Alne, Warwickshire",
    "price": "£150,000 guide",
-   "status": "Previously tracked",
+   "status": "For sale · checked 12 Nov 2026",
    "date": "6 Oct or earlier",
    "summary": "Grade II barn · residential conversion permission · River Alne fishing rights",
    "fish": "Grade II barn · residential conversion permission · River Alne fishing rights",
@@ -169,14 +187,17 @@
    "risks": "Listing status and rights require reconfirmation",
    "score": "82/100",
    "link": "https://www.rightmove.co.uk/properties/93154737",
-   "image_hint": "https://media.rightmove.co.uk/dir/75k/74688/93154737/74688_33887528_IMG_00_0000_max_656x437.jpeg",
+   "image_hint": "https://media.rightmove.co.uk/property-photo/6668e72b0/93154737/6668e72b038c0e59439d89883f9aa91b.png",
    "thumb": "images/mill-barn.jpg",
    "thumb_source": "https://media.rightmove.co.uk/property-photo/6668e72b0/93154737/6668e72b038c0e59439d89883f9aa91b.png",
    "check": {
     "at": "2026-11-12T19:42Z",
     "http": 200,
     "state": "ok"
-   }
+   },
+   "lat": 52.205,
+   "lon": -1.835,
+   "geo": "locality"
   },
   {
    "id": "billholm-house",
@@ -198,7 +219,10 @@
     "at": "2026-11-12T19:42Z",
     "http": 200,
     "state": "ok"
-   }
+   },
+   "lat": 55.2,
+   "lon": -3.15,
+   "geo": "locality"
   },
   {
    "id": "north-tawton-riverside-house",
@@ -220,14 +244,17 @@
     "at": "2026-11-12T19:42Z",
     "http": 200,
     "state": "ok"
-   }
+   },
+   "lat": 50.801,
+   "lon": -3.897,
+   "geo": "locality"
   },
   {
    "id": "dudales-hope-farmhouse",
    "name": "Dudales Hope Farmhouse",
    "place": "Bodenham, Herefordshire",
-   "price": "£725,000",
-   "status": "Previously reported · status not reverified",
+   "price": "£800,000",
+   "status": "For sale · checked 12 Nov 2026",
    "date": "October 2026",
    "summary": "Grade II 17th-century farmhouse; stream and 1.85-acre paddock; larger land option reported.",
    "fish": "Fishing unconfirmed",
@@ -235,14 +262,17 @@
    "risks": "Timber repairs; access; restoration budget",
    "score": "",
    "link": "https://www.rightmove.co.uk/properties/94382652",
-   "image_hint": "",
+   "image_hint": "https://media.rightmove.co.uk/property-photo/4a24d3846/94382652/4a24d38460cf037f4c27151c6f2c8428.jpeg",
    "thumb": "images/dudales-hope-farmhouse.jpg",
    "thumb_source": "https://media.rightmove.co.uk/property-photo/4a24d3846/94382652/4a24d38460cf037f4c27151c6f2c8428.jpeg",
    "check": {
     "at": "2026-11-12T19:42Z",
     "http": 200,
     "state": "ok"
-   }
+   },
+   "lat": 52.166,
+   "lon": -2.675,
+   "geo": "locality"
   },
   {
    "id": "penderi",
@@ -262,7 +292,10 @@
    "thumb_source": "",
    "check": {
     "at": "2026-11-12T19:42Z"
-   }
+   },
+   "lat": 51.814,
+   "lon": -4.62,
+   "geo": "locality"
   },
   {
    "id": "brynmeheryn",
@@ -282,7 +315,10 @@
    "thumb_source": "",
    "check": {
     "at": "2026-11-12T19:42Z"
-   }
+   },
+   "lat": 52.25,
+   "lon": -4.0,
+   "geo": "region"
   },
   {
    "id": "longcoombe-mill",
@@ -302,14 +338,17 @@
    "thumb_source": "",
    "check": {
     "at": "2026-11-12T19:42Z"
-   }
+   },
+   "lat": 50.332,
+   "lon": -4.513,
+   "geo": "locality"
   },
   {
    "id": "new-mill",
    "name": "New Mill",
    "place": "Pembrokeshire, Wales",
    "price": "£499,950",
-   "status": "Previously reported · status not reverified",
+   "status": "Listing removed from Zoopla · checked 12 Nov 2026",
    "date": "October 2026",
    "summary": "Grade II longhouse and former tucking mill; ~7 acres along Afon Syfni.",
    "fish": "Fishing advertised; trout unconfirmed",
@@ -324,14 +363,17 @@
     "at": "2026-11-12T19:42Z",
     "http": 403,
     "state": "blocked"
-   }
+   },
+   "lat": 51.8689,
+   "lon": -4.8319,
+   "geo": "locality"
   },
   {
    "id": "craskie-estate",
    "name": "Craskie Estate",
    "place": "Glen Cannich, Highlands",
    "price": "£800,000+",
-   "status": "Previously reported · status not reverified",
+   "status": "For sale · checked 12 Nov 2026",
    "date": "October 2026",
    "summary": "~153 acres; loch, River Cannich, old mill cottage and woodland.",
    "fish": "Wild trout rights reported; verify",
@@ -339,14 +381,17 @@
    "risks": "Access; buildings; gardens not established",
    "score": "",
    "link": "https://www.onthemarket.com/details/20105059/",
-   "image_hint": "https://media.onthemarket.com/properties/20105059/1635982864/image-0-1024x1024.jpg",
+   "image_hint": "https://media.onthemarket.com/properties/20105059/1650997840/image-0-1024x1024.jpg",
    "thumb": "images/craskie-estate.jpg",
    "thumb_source": "https://media.onthemarket.com/properties/20105059/1650997840/image-0-1024x1024.jpg",
    "check": {
     "at": "2026-11-12T19:42Z",
     "http": 200,
     "state": "ok"
-   }
+   },
+   "lat": 57.35,
+   "lon": -4.75,
+   "geo": "locality"
   },
   {
    "id": "carleton-house",
@@ -368,7 +413,10 @@
     "at": "2026-11-12T19:42Z",
     "http": 200,
     "state": "ok"
-   }
+   },
+   "lat": 54.8683,
+   "lon": -2.875,
+   "geo": "locality"
   },
   {
    "id": "old-mill",
@@ -383,14 +431,17 @@
    "risks": "Legal fishing extent; garden scale",
    "score": "",
    "link": "https://mccartneys.co.uk/property-details/95920/",
-   "image_hint": "",
+   "image_hint": "https://mccartneys.co.uk/wp-content/uploads/2025/04/WEL250083_41.jpg",
    "thumb": "",
    "thumb_source": "",
    "check": {
     "at": "2026-11-12T19:42Z",
     "http": 200,
     "state": "ok"
-   }
+   },
+   "lat": 52.668,
+   "lon": -3.409,
+   "geo": "locality"
   },
   {
    "id": "islip-mill-house",
@@ -412,7 +463,10 @@
     "at": "2026-11-12T19:42Z",
     "http": 403,
     "state": "blocked"
-   }
+   },
+   "lat": 52.398,
+   "lon": -0.546,
+   "geo": "locality"
   },
   {
    "id": "riverside-cottage",
@@ -432,7 +486,10 @@
    "thumb_source": "",
    "check": {
     "at": "2026-11-12T19:42Z"
-   }
+   },
+   "lat": 55.87,
+   "lon": -3.064,
+   "geo": "locality"
   },
   {
    "id": "bellan-hall",
@@ -452,7 +509,10 @@
    "thumb_source": "",
    "check": {
     "at": "2026-11-12T19:42Z"
-   }
+   },
+   "lat": 52.665,
+   "lon": -3.405,
+   "geo": "locality"
   },
   {
    "id": "barnfield-farm",
@@ -472,7 +532,10 @@
    "thumb_source": "",
    "check": {
     "at": "2026-11-12T19:42Z"
-   }
+   },
+   "lat": 50.8247,
+   "lon": -3.17,
+   "geo": "locality"
   },
   {
    "id": "norton-thatch",
@@ -492,7 +555,10 @@
    "thumb_source": "",
    "check": {
     "at": "2026-11-12T19:42Z"
-   }
+   },
+   "lat": 50.705,
+   "lon": -1.499,
+   "geo": "locality"
   },
   {
    "id": "bwlchyffin",
@@ -512,7 +578,10 @@
    "thumb_source": "",
    "check": {
     "at": "2026-11-12T19:42Z"
-   }
+   },
+   "lat": 52.033,
+   "lon": -4.186,
+   "geo": "locality"
   },
   {
    "id": "clashleigh",
@@ -532,7 +601,10 @@
    "thumb_source": "",
    "check": {
     "at": "2026-11-12T19:42Z"
-   }
+   },
+   "lat": 55.7,
+   "lon": -2.3,
+   "geo": "region"
   },
   {
    "id": "finford-house",
@@ -552,7 +624,10 @@
    "thumb_source": "",
    "check": {
     "at": "2026-11-12T19:42Z"
-   }
+   },
+   "lat": 52.9,
+   "lon": -9.05,
+   "geo": "region"
   },
   {
    "id": "avonside",
@@ -572,7 +647,10 @@
    "thumb_source": "",
    "check": {
     "at": "2026-11-12T19:42Z"
-   }
+   },
+   "lat": 51.087,
+   "lon": -1.805,
+   "geo": "locality"
   },
   {
    "id": "blaenffos-farm",
@@ -592,7 +670,10 @@
    "thumb_source": "",
    "check": {
     "at": "2026-11-12T19:42Z"
-   }
+   },
+   "lat": 51.994,
+   "lon": -4.656,
+   "geo": "locality"
   },
   {
    "id": "broad-raine",
@@ -612,14 +693,17 @@
    "thumb_source": "",
    "check": {
     "at": "2026-11-12T19:42Z"
-   }
+   },
+   "lat": 54.312,
+   "lon": -2.559,
+   "geo": "locality"
   },
   {
    "id": "waterway-house",
    "name": "Waterway House",
    "place": "Fladbury, Worcestershire",
    "price": "£1,400,000",
-   "status": "Previously reported · status not reverified",
+   "status": "For sale · checked 12 Nov 2026",
    "date": "October 2026",
    "summary": "~1.25 acres, orchard, woodland, River Avon frontage.",
    "fish": "Fishing advertised",
@@ -627,14 +711,17 @@
    "risks": "Price; modernised architecture",
    "score": "",
    "link": "https://www.onthemarket.com/details/20189770/",
-   "image_hint": "",
+   "image_hint": "https://media.onthemarket.com/properties/20189770/1649549187/image-0-1024x1024.jpg",
    "thumb": "images/waterway-house.jpg",
    "thumb_source": "https://media.onthemarket.com/properties/20189770/1649549187/image-0-1024x1024.jpg",
    "check": {
     "at": "2026-11-12T19:42Z",
     "http": 200,
     "state": "ok"
-   }
+   },
+   "lat": 52.1,
+   "lon": -2.021,
+   "geo": "locality"
   },
   {
    "id": "clooneen-house-and-mill",
@@ -656,14 +743,17 @@
     "at": "2026-11-12T19:42Z",
     "http": 200,
     "state": "ok"
-   }
+   },
+   "lat": 53.7773,
+   "lon": -7.4967,
+   "geo": "locality"
   },
   {
    "id": "warmanbie-house",
    "name": "Warmanbie House",
    "place": "Annan, Dumfries & Galloway, Scotland",
    "price": "£695,000+",
-   "status": "Previously reported · status not reverified",
+   "status": "For sale · checked 12 Nov 2026",
    "date": "Listed 6 Oct 2026",
    "summary": "B-listed early-19th-century mansion; ~14 acres, River Annan frontage and mature woodland.",
    "fish": "Salmon fishing included in advertised particulars; title unverified",
@@ -671,14 +761,17 @@
    "risks": "Very large house; unfinished works; footpath and drainage",
    "score": "",
    "link": "https://www.onthemarket.com/details/20482622/",
-   "image_hint": "",
+   "image_hint": "https://media.onthemarket.com/properties/20482622/1657946075/image-0-1024x1024.jpg",
    "thumb": "images/warmanbie-house.jpg",
    "thumb_source": "https://media.onthemarket.com/properties/20482622/1657946075/image-0-1024x1024.jpg",
    "check": {
     "at": "2026-11-12T19:42Z",
     "http": 200,
     "state": "ok"
-   }
+   },
+   "lat": 54.982,
+   "lon": -3.275,
+   "geo": "locality"
   },
   {
    "id": "barcheston-mill",
@@ -701,7 +794,10 @@
     "http": 200,
     "state": "ok"
    },
-   "note": "Link is a postcode search page, not the listing; needs a specific listing URL."
+   "note": "Link is a postcode search page, not the listing; needs a specific listing URL.",
+   "lat": 52.033,
+   "lon": -1.625,
+   "geo": "locality"
   },
   {
    "id": "hole-farm",
@@ -721,7 +817,10 @@
    "thumb_source": "",
    "check": {
     "at": "2026-11-12T19:42Z"
-   }
+   },
+   "lat": 50.916,
+   "lon": -3.685,
+   "geo": "locality"
   },
   {
    "id": "glenloy-lodge",
@@ -741,7 +840,10 @@
    "thumb_source": "",
    "check": {
     "at": "2026-11-12T19:42Z"
-   }
+   },
+   "lat": 56.88,
+   "lon": -5.09,
+   "geo": "region"
   },
   {
    "id": "bulford-mill",
@@ -761,7 +863,10 @@
    "thumb_source": "",
    "check": {
     "at": "2026-11-12T19:42Z"
-   }
+   },
+   "lat": 51.84,
+   "lon": 0.575,
+   "geo": "locality"
   },
   {
    "id": "chapter-house-wood-barton",
@@ -781,7 +886,10 @@
    "thumb_source": "",
    "check": {
     "at": "2026-11-12T19:42Z"
-   }
+   },
+   "lat": 50.41,
+   "lon": -3.85,
+   "geo": "region"
   },
   {
    "id": "boat-of-murthly",
@@ -803,7 +911,10 @@
     "at": "2026-11-12T19:42Z",
     "http": 200,
     "state": "ok"
-   }
+   },
+   "lat": 56.565,
+   "lon": -3.583,
+   "geo": "locality"
   },
   {
    "id": "alltwineu",
@@ -823,7 +934,10 @@
    "thumb_source": "",
    "check": {
     "at": "2026-11-12T19:42Z"
-   }
+   },
+   "lat": 52.105,
+   "lon": -3.638,
+   "geo": "locality"
   },
   {
    "id": "paddons",
@@ -843,7 +957,10 @@
    "thumb_source": "",
    "check": {
     "at": "2026-11-12T19:42Z"
-   }
+   },
+   "lat": 51.039,
+   "lon": -3.55,
+   "geo": "locality"
   },
   {
    "id": "wilsford-cum-lake-cottage",
@@ -863,7 +980,10 @@
    "thumb_source": "",
    "check": {
     "at": "2026-11-12T19:42Z"
-   }
+   },
+   "lat": 51.16,
+   "lon": -1.835,
+   "geo": "locality"
   },
   {
    "id": "harford-lodge",
@@ -883,7 +1003,10 @@
    "thumb_source": "",
    "check": {
     "at": "2026-11-12T19:42Z"
-   }
+   },
+   "lat": 50.4,
+   "lon": -3.9,
+   "geo": "locality"
   },
   {
    "id": "newport-house",
@@ -903,7 +1026,10 @@
    "thumb_source": "",
    "check": {
     "at": "2026-11-12T19:42Z"
-   }
+   },
+   "lat": 53.883,
+   "lon": -9.547,
+   "geo": "locality"
   },
   {
    "id": "ballyarr-house",
@@ -925,7 +1051,10 @@
     "at": "2026-11-12T19:42Z",
     "http": 200,
     "state": "ok"
-   }
+   },
+   "lat": 55.037,
+   "lon": -7.649,
+   "geo": "locality"
   },
   {
    "id": "syngefield-house",
@@ -945,7 +1074,10 @@
    "thumb_source": "",
    "check": {
     "at": "2026-11-12T19:42Z"
-   }
+   },
+   "lat": 53.095,
+   "lon": -7.91,
+   "geo": "locality"
   },
   {
    "id": "allardice-castle",
@@ -965,7 +1097,10 @@
    "thumb_source": "",
    "check": {
     "at": "2026-11-12T19:42Z"
-   }
+   },
+   "lat": 56.847,
+   "lon": -2.279,
+   "geo": "region"
   },
   {
    "id": "kings-grange-house",
@@ -987,7 +1122,10 @@
     "at": "2026-11-12T19:42Z",
     "http": 200,
     "state": "ok"
-   }
+   },
+   "lat": 54.94,
+   "lon": -3.93,
+   "geo": "locality"
   },
   {
    "id": "horrabridge-farmhouse",
@@ -1007,7 +1145,10 @@
    "thumb_source": "",
    "check": {
     "at": "2026-11-12T19:42Z"
-   }
+   },
+   "lat": 50.493,
+   "lon": -4.09,
+   "geo": "locality"
   },
   {
    "id": "pine-lodge",
@@ -1027,7 +1168,10 @@
    "thumb_source": "",
    "check": {
     "at": "2026-11-12T19:42Z"
-   }
+   },
+   "lat": 55.515,
+   "lon": -2.97,
+   "geo": "locality"
   },
   {
    "id": "mill-cottage",
@@ -1049,7 +1193,10 @@
     "at": "2026-11-12T19:42Z",
     "http": 200,
     "state": "ok"
-   }
+   },
+   "lat": 55.148,
+   "lon": -2.24,
+   "geo": "locality"
   }
  ]
 }
