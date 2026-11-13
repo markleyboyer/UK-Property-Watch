@@ -1,12 +1,12 @@
 {
- "at": "2026-11-12T19:42Z",
+ "at": "2026-11-13T05:21Z",
  "stats": {
   "pages_ok": 19,
   "pages_gone": 0,
   "pages_blocked": 5,
   "pages_error": 0,
-  "thumbs_new": 18,
-  "thumbs_kept": 0,
+  "thumbs_new": 1,
+  "thumbs_kept": 17,
   "thumbs_missing": 32
  },
  "notes": [
@@ -19,7 +19,6 @@
   "longcoombe-mill: NO THUMBNAIL (no link)",
   "new-mill: NO THUMBNAIL (blocked)",
   "carleton-house: NO THUMBNAIL (ok)",
-  "old-mill: NO THUMBNAIL (ok)",
   "islip-mill-house: NO THUMBNAIL (blocked)",
   "riverside-cottage: NO THUMBNAIL (no link)",
   "bellan-hall: NO THUMBNAIL (no link)",
@@ -31,6 +30,7 @@
   "avonside: NO THUMBNAIL (no link)",
   "blaenffos-farm: NO THUMBNAIL (no link)",
   "broad-raine: NO THUMBNAIL (no link)",
+  "barcheston-mill: NO THUMBNAIL (ok)",
   "hole-farm: NO THUMBNAIL (no link)",
   "glenloy-lodge: NO THUMBNAIL (no link)",
   "bulford-mill: NO THUMBNAIL (no link)",

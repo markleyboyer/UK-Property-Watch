@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-12",
- "refreshed_at": "2026-11-12T19:42Z",
+ "updated": "2026-11-13",
+ "refreshed_at": "2026-11-13T05:21Z",
  "properties": [
   {
    "id": "dinhams-bridge",
@@ -19,7 +19,7 @@
    "thumb": "",
    "thumb_source": "",
    "check": {
-    "at": "2026-11-12T19:42Z",
+    "at": "2026-11-13T05:21Z",
     "http": 403,
     "state": "blocked"
    }
@@ -41,7 +41,7 @@
    "thumb": "",
    "thumb_source": "",
    "check": {
-    "at": "2026-11-12T19:42Z",
+    "at": "2026-11-13T05:21Z",
     "http": 403,
     "state": "blocked"
    }
@@ -63,7 +63,7 @@
    "thumb": "images/rhydlewis-country-house.jpg",
    "thumb_source": "https://lc.zoocdn.com/bb2d846fa0c2ea47f1a2d0c59f42c5abfcafdabb.jpg",
    "check": {
-    "at": "2026-11-12T19:42Z",
+    "at": "2026-11-13T05:21Z",
     "http": 403,
     "state": "blocked"
    }
@@ -85,7 +85,7 @@
    "thumb": "images/the-milton.jpg",
    "thumb_source": "https://rettiecdn.co.uk/cdn-cgi/imagedelivery/BAMl0GV25j7hQSkc6ATqEw/a35624c8-280b-4f62-e667-17f58a5ace00/public",
    "check": {
-    "at": "2026-11-12T19:42Z",
+    "at": "2026-11-13T05:21Z",
     "http": 200,
     "state": "ok"
    }
@@ -107,7 +107,7 @@
    "thumb": "images/boat-road.jpg",
    "thumb_source": "https://property.eacdn.co.uk/files/property/42/image/19677204/S47xiGEAnUSQCxysF56-dA.jpg",
    "check": {
-    "at": "2026-11-12T19:42Z",
+    "at": "2026-11-13T05:21Z",
     "http": 200,
     "state": "ok"
    }
@@ -129,7 +129,7 @@
    "thumb": "images/eden-grange.jpg",
    "thumb_source": "https://cdn.members.nurtur.tech/properties/7/870/2677/4778826/IMG_WeFXtQRQXumtztFR_hd.jpg",
    "check": {
-    "at": "2026-11-12T19:42Z",
+    "at": "2026-11-13T05:21Z",
     "http": 200,
     "state": "ok"
    }
@@ -151,7 +151,7 @@
    "thumb": "images/greystead-rectory.jpg",
    "thumb_source": "https://media.onthemarket.com/properties/18064325/1614336096/image-0-1024x1024.jpg",
    "check": {
-    "at": "2026-11-12T19:42Z",
+    "at": "2026-11-13T05:21Z",
     "http": 200,
     "state": "ok"
    }
@@ -173,7 +173,7 @@
    "thumb": "images/mill-barn.jpg",
    "thumb_source": "https://media.rightmove.co.uk/property-photo/6668e72b0/93154737/6668e72b038c0e59439d89883f9aa91b.png",
    "check": {
-    "at": "2026-11-12T19:42Z",
+    "at": "2026-11-13T05:21Z",
     "http": 200,
     "state": "ok"
    }
@@ -195,7 +195,7 @@
    "thumb": "images/billholm-house.jpg",
    "thumb_source": "https://assets.savills.com/properties/GBGLRSCLV260371/CLV260371_94_l_gal.jpg",
    "check": {
-    "at": "2026-11-12T19:42Z",
+    "at": "2026-11-13T05:21Z",
     "http": 200,
     "state": "ok"
    }
@@ -217,7 +217,7 @@
    "thumb": "images/north-tawton-riverside-house.jpg",
    "thumb_source": "https://media.propertypal.com//large/p/1130670/45517685.jpg",
    "check": {
-    "at": "2026-11-12T19:42Z",
+    "at": "2026-11-13T05:21Z",
     "http": 200,
     "state": "ok"
    }
@@ -239,7 +239,7 @@
    "thumb": "images/dudales-hope-farmhouse.jpg",
    "thumb_source": "https://media.rightmove.co.uk/property-photo/4a24d3846/94382652/4a24d38460cf037f4c27151c6f2c8428.jpeg",
    "check": {
-    "at": "2026-11-12T19:42Z",
+    "at": "2026-11-13T05:21Z",
     "http": 200,
     "state": "ok"
    }
@@ -261,7 +261,7 @@
    "thumb": "",
    "thumb_source": "",
    "check": {
-    "at": "2026-11-12T19:42Z"
+    "at": "2026-11-13T05:21Z"
    }
   },
   {
@@ -281,7 +281,7 @@
    "thumb": "",
    "thumb_source": "",
    "check": {
-    "at": "2026-11-12T19:42Z"
+    "at": "2026-11-13T05:21Z"
    }
   },
   {
@@ -301,7 +301,7 @@
    "thumb": "",
    "thumb_source": "",
    "check": {
-    "at": "2026-11-12T19:42Z"
+    "at": "2026-11-13T05:21Z"
    }
   },
   {
@@ -321,7 +321,7 @@
    "thumb": "",
    "thumb_source": "",
    "check": {
-    "at": "2026-11-12T19:42Z",
+    "at": "2026-11-13T05:21Z",
     "http": 403,
     "state": "blocked"
    }
@@ -343,7 +343,7 @@
    "thumb": "images/craskie-estate.jpg",
    "thumb_source": "https://media.onthemarket.com/properties/20105059/1650997840/image-0-1024x1024.jpg",
    "check": {
-    "at": "2026-11-12T19:42Z",
+    "at": "2026-11-13T05:21Z",
     "http": 200,
     "state": "ok"
    }
@@ -365,7 +365,7 @@
    "thumb": "",
    "thumb_source": "",
    "check": {
-    "at": "2026-11-12T19:42Z",
+    "at": "2026-11-13T05:21Z",
     "http": 200,
     "state": "ok"
    }
@@ -384,10 +384,10 @@
    "score": "",
    "link": "https://mccartneys.co.uk/property-details/95920/",
    "image_hint": "",
-   "thumb": "",
-   "thumb_source": "",
+   "thumb": "images/old-mill.jpg",
+   "thumb_source": "https://mccartneys.co.uk/wp-content/uploads/2025/04/WEL250083_41.jpg",
    "check": {
-    "at": "2026-11-12T19:42Z",
+    "at": "2026-11-13T05:21Z",
     "http": 200,
     "state": "ok"
    }
@@ -409,7 +409,7 @@
    "thumb": "",
    "thumb_source": "",
    "check": {
-    "at": "2026-11-12T19:42Z",
+    "at": "2026-11-13T05:21Z",
     "http": 403,
     "state": "blocked"
    }
@@ -431,7 +431,7 @@
    "thumb": "",
    "thumb_source": "",
    "check": {
-    "at": "2026-11-12T19:42Z"
+    "at": "2026-11-13T05:21Z"
    }
   },
   {
@@ -451,7 +451,7 @@
    "thumb": "",
    "thumb_source": "",
    "check": {
-    "at": "2026-11-12T19:42Z"
+    "at": "2026-11-13T05:21Z"
    }
   },
   {
@@ -471,7 +471,7 @@
    "thumb": "",
    "thumb_source": "",
    "check": {
-    "at": "2026-11-12T19:42Z"
+    "at": "2026-11-13T05:21Z"
    }
   },
   {
@@ -491,7 +491,7 @@
    "thumb": "",
    "thumb_source": "",
    "check": {
-    "at": "2026-11-12T19:42Z"
+    "at": "2026-11-13T05:21Z"
    }
   },
   {
@@ -511,7 +511,7 @@
    "thumb": "",
    "thumb_source": "",
    "check": {
-    "at": "2026-11-12T19:42Z"
+    "at": "2026-11-13T05:21Z"
    }
   },
   {
@@ -531,7 +531,7 @@
    "thumb": "",
    "thumb_source": "",
    "check": {
-    "at": "2026-11-12T19:42Z"
+    "at": "2026-11-13T05:21Z"
    }
   },
   {
@@ -551,7 +551,7 @@
    "thumb": "",
    "thumb_source": "",
    "check": {
-    "at": "2026-11-12T19:42Z"
+    "at": "2026-11-13T05:21Z"
    }
   },
   {
@@ -571,7 +571,7 @@
    "thumb": "",
    "thumb_source": "",
    "check": {
-    "at": "2026-11-12T19:42Z"
+    "at": "2026-11-13T05:21Z"
    }
   },
   {
@@ -591,7 +591,7 @@
    "thumb": "",
    "thumb_source": "",
    "check": {
-    "at": "2026-11-12T19:42Z"
+    "at": "2026-11-13T05:21Z"
    }
   },
   {
@@ -611,7 +611,7 @@
    "thumb": "",
    "thumb_source": "",
    "check": {
-    "at": "2026-11-12T19:42Z"
+    "at": "2026-11-13T05:21Z"
    }
   },
   {
@@ -631,7 +631,7 @@
    "thumb": "images/waterway-house.jpg",
    "thumb_source": "https://media.onthemarket.com/properties/20189770/1649549187/image-0-1024x1024.jpg",
    "check": {
-    "at": "2026-11-12T19:42Z",
+    "at": "2026-11-13T05:21Z",
     "http": 200,
     "state": "ok"
    }
@@ -653,7 +653,7 @@
    "thumb": "images/clooneen-house-and-mill.jpg",
    "thumb_source": "https://media.propertypal.com/large/p/1074875/41753877.jpg",
    "check": {
-    "at": "2026-11-12T19:42Z",
+    "at": "2026-11-13T05:21Z",
     "http": 200,
     "state": "ok"
    }
@@ -675,7 +675,7 @@
    "thumb": "images/warmanbie-house.jpg",
    "thumb_source": "https://media.onthemarket.com/properties/20482622/1657946075/image-0-1024x1024.jpg",
    "check": {
-    "at": "2026-11-12T19:42Z",
+    "at": "2026-11-13T05:21Z",
     "http": 200,
     "state": "ok"
    }
@@ -697,7 +697,7 @@
    "thumb": "",
    "thumb_source": "",
    "check": {
-    "at": "2026-11-12T19:42Z",
+    "at": "2026-11-13T05:21Z",
     "http": 200,
     "state": "ok"
    },
@@ -720,7 +720,7 @@
    "thumb": "",
    "thumb_source": "",
    "check": {
-    "at": "2026-11-12T19:42Z"
+    "at": "2026-11-13T05:21Z"
    }
   },
   {
@@ -740,7 +740,7 @@
    "thumb": "",
    "thumb_source": "",
    "check": {
-    "at": "2026-11-12T19:42Z"
+    "at": "2026-11-13T05:21Z"
    }
   },
   {
@@ -760,7 +760,7 @@
    "thumb": "",
    "thumb_source": "",
    "check": {
-    "at": "2026-11-12T19:42Z"
+    "at": "2026-11-13T05:21Z"
    }
   },
   {
@@ -780,7 +780,7 @@
    "thumb": "",
    "thumb_source": "",
    "check": {
-    "at": "2026-11-12T19:42Z"
+    "at": "2026-11-13T05:21Z"
    }
   },
   {
@@ -800,7 +800,7 @@
    "thumb": "images/boat-of-murthly.jpg",
    "thumb_source": "https://assets.savills.com/properties/GBPERSPES260075/PES260075_75_l_gal.jpg",
    "check": {
-    "at": "2026-11-12T19:42Z",
+    "at": "2026-11-13T05:21Z",
     "http": 200,
     "state": "ok"
    }
@@ -822,7 +822,7 @@
    "thumb": "",
    "thumb_source": "",
    "check": {
-    "at": "2026-11-12T19:42Z"
+    "at": "2026-11-13T05:21Z"
    }
   },
   {
@@ -842,7 +842,7 @@
    "thumb": "",
    "thumb_source": "",
    "check": {
-    "at": "2026-11-12T19:42Z"
+    "at": "2026-11-13T05:21Z"
    }
   },
   {
@@ -862,7 +862,7 @@
    "thumb": "",
    "thumb_source": "",
    "check": {
-    "at": "2026-11-12T19:42Z"
+    "at": "2026-11-13T05:21Z"
    }
   },
   {
@@ -882,7 +882,7 @@
    "thumb": "",
    "thumb_source": "",
    "check": {
-    "at": "2026-11-12T19:42Z"
+    "at": "2026-11-13T05:21Z"
    }
   },
   {
@@ -902,7 +902,7 @@
    "thumb": "",
    "thumb_source": "",
    "check": {
-    "at": "2026-11-12T19:42Z"
+    "at": "2026-11-13T05:21Z"
    }
   },
   {
@@ -922,7 +922,7 @@
    "thumb": "images/ballyarr-house.jpg",
    "thumb_source": "https://franklins.ie/app/uploads/2025/05/2-Front-4-1-scaled.jpg",
    "check": {
-    "at": "2026-11-12T19:42Z",
+    "at": "2026-11-13T05:21Z",
     "http": 200,
     "state": "ok"
    }
@@ -944,7 +944,7 @@
    "thumb": "",
    "thumb_source": "",
    "check": {
-    "at": "2026-11-12T19:42Z"
+    "at": "2026-11-13T05:21Z"
    }
   },
   {
@@ -964,7 +964,7 @@
    "thumb": "",
    "thumb_source": "",
    "check": {
-    "at": "2026-11-12T19:42Z"
+    "at": "2026-11-13T05:21Z"
    }
   },
   {
@@ -984,7 +984,7 @@
    "thumb": "images/kings-grange-house.jpg",
    "thumb_source": "https://assets.savills.com/properties/GBGLRSCLV256453/CLV256453_66_l_gal.jpg",
    "check": {
-    "at": "2026-11-12T19:42Z",
+    "at": "2026-11-13T05:21Z",
     "http": 200,
     "state": "ok"
    }
@@ -1006,7 +1006,7 @@
    "thumb": "",
    "thumb_source": "",
    "check": {
-    "at": "2026-11-12T19:42Z"
+    "at": "2026-11-13T05:21Z"
    }
   },
   {
@@ -1026,7 +1026,7 @@
    "thumb": "",
    "thumb_source": "",
    "check": {
-    "at": "2026-11-12T19:42Z"
+    "at": "2026-11-13T05:21Z"
    }
   },
   {
@@ -1046,7 +1046,7 @@
    "thumb": "images/mill-cottage.jpg",
    "thumb_source": "https://property.eacdn.co.uk/files/property/42/image/19677204/S47xiGEAnUSQCxysF56-dA.jpg",
    "check": {
-    "at": "2026-11-12T19:42Z",
+    "at": "2026-11-13T05:21Z",
     "http": 200,
     "state": "ok"
    }
