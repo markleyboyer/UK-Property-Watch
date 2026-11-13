@@ -1,12 +1,12 @@
 {
- "at": "2026-11-13T05:21Z",
+ "at": "2026-11-13T11:41Z",
  "stats": {
   "pages_ok": 19,
   "pages_gone": 0,
   "pages_blocked": 5,
   "pages_error": 0,
-  "thumbs_new": 1,
-  "thumbs_kept": 17,
+  "thumbs_new": 0,
+  "thumbs_kept": 18,
   "thumbs_missing": 32
  },
  "notes": [
