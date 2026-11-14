@@ -152,6 +152,9 @@ def main():
         if p.get("image_hint"):
             cands.append(p["image_hint"])
         thumb_path = IMG_DIR / f"{p['id']}.jpg"
+        if p.get("thumb_source") == "manual" and thumb_path.exists() and not args.force:
+            stats["thumbs_kept"] += 1          # hand-supplied image: never overwrite
+            continue
         if p.get("thumb") and thumb_path.exists() and not args.force and cands and cands[0] == p.get("thumb_source"):
             stats["thumbs_kept"] += 1
             continue

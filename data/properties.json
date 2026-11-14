@@ -41,8 +41,8 @@
       "score": "",
       "link": "https://www.primelocation.com/for-sale/details/74365621/",
       "image_hint": "https://lc.zoocdn.com/9951619ad17bb49a774d23faac6eeec79eb6e8a8.jpg",
-      "thumb": "",
-      "thumb_source": "",
+      "thumb": "images/riverside-house.jpg",
+      "thumb_source": "manual",
       "check": {
         "at": "2026-11-13T11:41Z",
         "http": 403,
@@ -407,8 +407,8 @@
       "score": "",
       "link": "https://hhlandestates.co.uk/property/carleton-house-carleton-carlisle-cumbria-ca4-0bu/",
       "image_hint": "",
-      "thumb": "",
-      "thumb_source": "",
+      "thumb": "images/carleton-house.jpg",
+      "thumb_source": "manual",
       "check": {
         "at": "2026-11-13T11:41Z",
         "http": 200,
@@ -457,8 +457,8 @@
       "score": "",
       "link": "https://nethouseprices.com/property/details/A69C54BF5475C8_OOS260137/Islip%20Mill%20House%2C%20Mill%20Lane%2C%20Islip%2C%20Northamptonshire%2C%20NN14/sale",
       "image_hint": "",
-      "thumb": "",
-      "thumb_source": "",
+      "thumb": "images/islip-mill-house.jpg",
+      "thumb_source": "manual",
       "check": {
         "at": "2026-11-13T11:41Z",
         "http": 403,
@@ -597,8 +597,8 @@
       "score": "",
       "link": "https://search.savills.com/us/en/property-detail/gbedrseds260098",
       "image_hint": "",
-      "thumb": "",
-      "thumb_source": "",
+      "thumb": "images/clashleigh.jpg",
+      "thumb_source": "manual",
       "check": {
         "at": "2026-11-13T11:41Z"
       },
@@ -620,8 +620,8 @@
       "score": "",
       "link": "https://www.daft.ie/for-sale/finford-house-bunnahow-ballinruan-co-clare/6686127",
       "image_hint": "",
-      "thumb": "",
-      "thumb_source": "",
+      "thumb": "images/finford-house.jpg",
+      "thumb_source": "manual",
       "check": {
         "at": "2026-11-13T11:41Z"
       },
@@ -859,8 +859,8 @@
       "score": "",
       "link": "https://search.savills.com/us/en/property-detail/gbchrsclv268275",
       "image_hint": "",
-      "thumb": "",
-      "thumb_source": "",
+      "thumb": "images/bulford-mill.jpg",
+      "thumb_source": "manual",
       "check": {
         "at": "2026-11-13T11:41Z"
       },
@@ -1022,8 +1022,8 @@
       "score": "",
       "link": "https://www.daft.ie/commercial-property-for-sale/newport-house-main-street-newport-county-mayo/6714593",
       "image_hint": "",
-      "thumb": "",
-      "thumb_source": "",
+      "thumb": "images/newport-house.jpg",
+      "thumb_source": "manual",
       "check": {
         "at": "2026-11-13T11:41Z"
       },
@@ -1070,8 +1070,8 @@
       "score": "",
       "link": "https://www.dng.ie/property-for-sale/10-bedroom-house-for-sale-in-syngefield-house-clonoghill-upper-birr-co-offaly-6a8efc104e7ad908560c89c8/",
       "image_hint": "",
-      "thumb": "",
-      "thumb_source": "",
+      "thumb": "images/syngefield-house.jpg",
+      "thumb_source": "manual",
       "check": {
         "at": "2026-11-13T11:41Z"
       },
@@ -1093,8 +1093,8 @@
       "score": "",
       "link": "https://www.onthemarket.com/details/19936007/",
       "image_hint": "",
-      "thumb": "",
-      "thumb_source": "",
+      "thumb": "images/allardice-castle.jpg",
+      "thumb_source": "manual",
       "check": {
         "at": "2026-11-13T11:41Z"
       },
@@ -1212,8 +1212,8 @@
       "score": "",
       "link": "https://www.onthemarket.com/details/20735822/",
       "image_hint": "",
-      "thumb": "",
-      "thumb_source": "",
+      "thumb": "images/bridge-of-lyon-fortingall.jpg",
+      "thumb_source": "manual",
       "check": {},
       "lat": 56.6,
       "lon": -4.04,
@@ -1233,8 +1233,8 @@
       "score": "",
       "link": "https://www.rightmove.co.uk/properties/95382357",
       "image_hint": "",
-      "thumb": "",
-      "thumb_source": "",
+      "thumb": "images/otterburn-castle.jpg",
+      "thumb_source": "manual",
       "check": {},
       "lat": 55.23,
       "lon": -2.18,
