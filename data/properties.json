@@ -275,52 +275,6 @@
       "geo": "locality"
     },
     {
-      "id": "penderi",
-      "name": "Penderi",
-      "place": "Llanfallteg, Carmarthenshire",
-      "price": "£925,000",
-      "status": "Previously reported · status not reverified",
-      "date": "October 2026",
-      "summary": "Traditional farmhouse, annexe and ~15 acres with River Taf frontage.",
-      "fish": "Fishing unconfirmed; trout river",
-      "rail": "Clunderwen",
-      "risks": "Fishing ownership; river flood risk",
-      "score": "",
-      "link": "",
-      "image_hint": "",
-      "thumb": "",
-      "thumb_source": "",
-      "check": {
-        "at": "2026-11-13T11:41Z"
-      },
-      "lat": 51.814,
-      "lon": -4.62,
-      "geo": "locality"
-    },
-    {
-      "id": "brynmeheryn",
-      "name": "Brynmeheryn",
-      "place": "Ceredigion, Wales",
-      "price": "£800,000+",
-      "status": "Previously reported · LandSale page no longer found · checked 14 Nov 2026",
-      "date": "October 2026",
-      "summary": "Grade II former rectory; six acres of exceptional gardens, lake, ponds and stream.",
-      "fish": "Fishing unconfirmed",
-      "rail": "Aberystwyth ~13 miles",
-      "risks": "Garden maintenance; water ornamental",
-      "score": "",
-      "link": "",
-      "image_hint": "",
-      "thumb": "",
-      "thumb_source": "",
-      "check": {
-        "at": "2026-11-13T11:41Z"
-      },
-      "lat": 52.25,
-      "lon": -4.0,
-      "geo": "region"
-    },
-    {
       "id": "longcoombe-mill",
       "name": "Longcoombe Mill",
       "place": "Longcoombe Lane, Polperro, Cornwall",
@@ -492,98 +446,6 @@
       "geo": "locality"
     },
     {
-      "id": "bellan-hall",
-      "name": "Bellan Hall",
-      "place": "Llanerfyl, Powys",
-      "price": "£525,000",
-      "status": "Previously reported · status not reverified",
-      "date": "October 2026",
-      "summary": "Listed 1887 hunting lodge; ~10 acres.",
-      "fish": "No included river rights confirmed",
-      "rail": "Caersws",
-      "risks": "Estate parcel limits",
-      "score": "",
-      "link": "",
-      "image_hint": "",
-      "thumb": "",
-      "thumb_source": "",
-      "check": {
-        "at": "2026-11-13T11:41Z"
-      },
-      "lat": 52.665,
-      "lon": -3.405,
-      "geo": "locality"
-    },
-    {
-      "id": "barnfield-farm",
-      "name": "Barnfield Farm",
-      "place": "Luppitt, Devon",
-      "price": "£500,000 guide",
-      "status": "Previously reported · status not reverified",
-      "date": "October 2026",
-      "summary": "Grade II farmhouse and annexes, orchard, 4.26 acres and stream.",
-      "fish": "Fishing unconfirmed",
-      "rail": "Honiton ~4 miles",
-      "risks": "Auction 20 Nov; institutional conversion; renovation",
-      "score": "",
-      "link": "",
-      "image_hint": "",
-      "thumb": "",
-      "thumb_source": "",
-      "check": {
-        "at": "2026-11-13T11:41Z"
-      },
-      "lat": 50.8247,
-      "lon": -3.17,
-      "geo": "locality"
-    },
-    {
-      "id": "norton-thatch",
-      "name": "Norton Thatch",
-      "place": "Yarmouth, Isle of Wight",
-      "price": "£799,000",
-      "status": "Previously reported · status not reverified",
-      "date": "October 2026",
-      "summary": "17th-century thatched house; 0.75 acres, mature gardens, small stream.",
-      "fish": "Fishing not advertised",
-      "rail": "Ferry to Lymington",
-      "risks": "Island logistics; thatch upkeep",
-      "score": "",
-      "link": "",
-      "image_hint": "",
-      "thumb": "",
-      "thumb_source": "",
-      "check": {
-        "at": "2026-11-13T11:41Z"
-      },
-      "lat": 50.705,
-      "lon": -1.499,
-      "geo": "locality"
-    },
-    {
-      "id": "bwlchyffin",
-      "name": "Bwlchyffin",
-      "place": "Llanfihangel-ar-Arth, Wales",
-      "price": "£430,000",
-      "status": "Previously reported · status not reverified",
-      "date": "October 2026",
-      "summary": "Bungalow; 2.5 acres, productive gardens, woodland and stream.",
-      "fish": "Fishing unconfirmed",
-      "rail": "Regional access to assess",
-      "risks": "Architecture less compelling",
-      "score": "",
-      "link": "",
-      "image_hint": "",
-      "thumb": "",
-      "thumb_source": "",
-      "check": {
-        "at": "2026-11-13T11:41Z"
-      },
-      "lat": 52.033,
-      "lon": -4.186,
-      "geo": "locality"
-    },
-    {
       "id": "clashleigh",
       "name": "Clashleigh",
       "place": "Scottish Borders",
@@ -628,75 +490,6 @@
       "lat": 52.9,
       "lon": -9.05,
       "geo": "region"
-    },
-    {
-      "id": "avonside",
-      "name": "Avonside",
-      "place": "Stratford-sub-Castle, Wiltshire",
-      "price": "£1,450,000",
-      "status": "Previously reported · status not reverified",
-      "date": "October 2026",
-      "summary": "Grade II house; mature riverside gardens on River Avon.",
-      "fish": "Fishing mentioned; title unconfirmed",
-      "rail": "Salisbury",
-      "risks": "Price; small acreage",
-      "score": "",
-      "link": "",
-      "image_hint": "",
-      "thumb": "",
-      "thumb_source": "",
-      "check": {
-        "at": "2026-11-13T11:41Z"
-      },
-      "lat": 51.087,
-      "lon": -1.805,
-      "geo": "locality"
-    },
-    {
-      "id": "blaenffos-farm",
-      "name": "Blaenffos farm",
-      "place": "Pembrokeshire, Wales",
-      "price": "£800,000",
-      "status": "Previously reported · status not reverified",
-      "date": "October 2026",
-      "summary": "Grade II farmhouse for restoration; ~72 acres incl. woodland stream.",
-      "fish": "Fishing unconfirmed",
-      "rail": "Regional access to assess",
-      "risks": "Large restoration and land-management burden",
-      "score": "",
-      "link": "",
-      "image_hint": "",
-      "thumb": "",
-      "thumb_source": "",
-      "check": {
-        "at": "2026-11-13T11:41Z"
-      },
-      "lat": 51.994,
-      "lon": -4.656,
-      "geo": "locality"
-    },
-    {
-      "id": "broad-raine",
-      "name": "Broad Raine",
-      "place": "Killington, Cumbria",
-      "price": "£250,000 guide",
-      "status": "Previously reported · status not reverified",
-      "date": "October 2026",
-      "summary": "Period farmhouse; gardens and River Lune frontage.",
-      "fish": "Fishing unconfirmed",
-      "rail": "Oxenholme ~15 min reported",
-      "risks": "Auction date 22 Oct passed; status unknown",
-      "score": "",
-      "link": "",
-      "image_hint": "",
-      "thumb": "",
-      "thumb_source": "",
-      "check": {
-        "at": "2026-11-13T11:41Z"
-      },
-      "lat": 54.312,
-      "lon": -2.559,
-      "geo": "locality"
     },
     {
       "id": "waterway-house",
@@ -800,52 +593,6 @@
       "geo": "locality"
     },
     {
-      "id": "hole-farm",
-      "name": "Hole Farm",
-      "place": "Witheridge, Devon",
-      "price": "£1,100,000",
-      "status": "Previously reported · status not reverified",
-      "date": "Listed 27 Oct 2026",
-      "summary": "17th-century farmhouse with ~6 acres, walled vegetable garden, orchard, greenhouse, stream and pond.",
-      "fish": "Not advertised",
-      "rail": "Tiverton Parkway ~20 miles reported",
-      "risks": "Drainage compliance; stream likely not trout fishing",
-      "score": "",
-      "link": "",
-      "image_hint": "",
-      "thumb": "",
-      "thumb_source": "",
-      "check": {
-        "at": "2026-11-13T11:41Z"
-      },
-      "lat": 50.916,
-      "lon": -3.685,
-      "geo": "locality"
-    },
-    {
-      "id": "glenloy-lodge",
-      "name": "Glenloy Lodge",
-      "place": "Banavie, Highland, Scotland",
-      "price": "£399,000 guide",
-      "status": "Auction scheduled · verify",
-      "date": "Listed March 2026",
-      "summary": "Former hunting lodge with mature woodland near River Loy; nine bedrooms.",
-      "fish": "Rights unconfirmed",
-      "rail": "Fort William ~7 miles",
-      "risks": "Auction 26 Nov reported; fees; river frontage and condition unverified",
-      "score": "",
-      "link": "",
-      "image_hint": "",
-      "thumb": "",
-      "thumb_source": "",
-      "check": {
-        "at": "2026-11-13T11:41Z"
-      },
-      "lat": 56.88,
-      "lon": -5.09,
-      "geo": "region"
-    },
-    {
       "id": "bulford-mill",
       "name": "Bulford Mill",
       "place": "Cressing, Essex",
@@ -867,29 +614,6 @@
       "lat": 51.84,
       "lon": 0.575,
       "geo": "locality"
-    },
-    {
-      "id": "chapter-house-wood-barton",
-      "name": "Chapter House, Wood Barton",
-      "place": "Devon, England",
-      "price": "£775,000",
-      "status": "Previously reported · status not reverified",
-      "date": "Listed 23 Oct 2026",
-      "summary": "Converted monastery residence with shared ~80 acres and River Avon access.",
-      "fish": "Shared trout/salmon fishing advertised; tenure to verify",
-      "rail": "Totnes or Ivybridge",
-      "risks": "Leasehold; substantial service charge; shared gardens",
-      "score": "",
-      "link": "",
-      "image_hint": "",
-      "thumb": "",
-      "thumb_source": "",
-      "check": {
-        "at": "2026-11-13T11:41Z"
-      },
-      "lat": 50.41,
-      "lon": -3.85,
-      "geo": "region"
     },
     {
       "id": "boat-of-murthly",
@@ -914,98 +638,6 @@
       },
       "lat": 56.565,
       "lon": -3.583,
-      "geo": "locality"
-    },
-    {
-      "id": "alltwineu",
-      "name": "Alltwineu",
-      "place": "Llanwrtyd Wells, Powys",
-      "price": "£600,000",
-      "status": "Previously reported",
-      "date": "27 Mar 2026; July reduction",
-      "summary": "Grade II farmhouse; 13.35 acres, River Irfon, remote Cambrian Mountains landscape.",
-      "fish": "Over one mile single-bank fishing advertised; title unverified",
-      "rail": "Llanwrtyd Wells",
-      "risks": "Long access track; listed status",
-      "score": "",
-      "link": "",
-      "image_hint": "",
-      "thumb": "",
-      "thumb_source": "",
-      "check": {
-        "at": "2026-11-13T11:41Z"
-      },
-      "lat": 52.105,
-      "lon": -3.638,
-      "geo": "locality"
-    },
-    {
-      "id": "paddons",
-      "name": "Paddons",
-      "place": "Dulverton, Somerset",
-      "price": "£799,950",
-      "status": "Previously reported",
-      "date": "23 Jun 2026",
-      "summary": "19th-century stone house; 15.72 acres of woodland and kitchen garden; River Barle.",
-      "fish": "400 yards single-bank trout/salmon fishery advertised; title unverified",
-      "rail": "Tiverton Parkway distant",
-      "risks": "Road separates house from river",
-      "score": "",
-      "link": "",
-      "image_hint": "",
-      "thumb": "",
-      "thumb_source": "",
-      "check": {
-        "at": "2026-11-13T11:41Z"
-      },
-      "lat": 51.039,
-      "lon": -3.55,
-      "geo": "locality"
-    },
-    {
-      "id": "wilsford-cum-lake-cottage",
-      "name": "Wilsford-cum-Lake cottage",
-      "place": "Woodford Valley, Wiltshire",
-      "price": "£850,000",
-      "status": "Previously reported",
-      "date": "18 Jun 2026; Sep reduction",
-      "summary": "Thatched period cottage; landscaped riverside garden, summerhouse and fishing room.",
-      "fish": "53m River Avon chalk-stream single-bank rights advertised; title unverified",
-      "rail": "Salisbury / Grateley",
-      "risks": "Flood exposure; small plot",
-      "score": "",
-      "link": "",
-      "image_hint": "",
-      "thumb": "",
-      "thumb_source": "",
-      "check": {
-        "at": "2026-11-13T11:41Z"
-      },
-      "lat": 51.16,
-      "lon": -1.835,
-      "geo": "locality"
-    },
-    {
-      "id": "harford-lodge",
-      "name": "Harford Lodge",
-      "place": "Ivybridge, Devon",
-      "price": "£1,400,000",
-      "status": "Previously reported",
-      "date": "18 May 2026",
-      "summary": "1935 country house; 9 acres, specimen trees, orchard, terraces and River Erme.",
-      "fish": "Trout and salmon rights advertised; title unverified",
-      "rail": "Ivybridge ~2–2.5 miles",
-      "risks": "Above budget",
-      "score": "",
-      "link": "",
-      "image_hint": "",
-      "thumb": "",
-      "thumb_source": "",
-      "check": {
-        "at": "2026-11-13T11:41Z"
-      },
-      "lat": 50.4,
-      "lon": -3.9,
       "geo": "locality"
     },
     {
@@ -1125,52 +757,6 @@
       },
       "lat": 54.94,
       "lon": -3.93,
-      "geo": "locality"
-    },
-    {
-      "id": "horrabridge-farmhouse",
-      "name": "Horrabridge farmhouse",
-      "place": "Horrabridge, Devon",
-      "price": "£775,000",
-      "status": "Previously reported",
-      "date": "2 Jun 2026",
-      "summary": "Historic farmhouse; 12.86 acres, mature gardens, River Walkham frontage.",
-      "fish": "River fishing rights advertised; title unverified",
-      "rail": "Regional rail by car",
-      "risks": "Development uplift clause; former mine",
-      "score": "",
-      "link": "",
-      "image_hint": "",
-      "thumb": "",
-      "thumb_source": "",
-      "check": {
-        "at": "2026-11-13T11:41Z"
-      },
-      "lat": 50.493,
-      "lon": -4.09,
-      "geo": "locality"
-    },
-    {
-      "id": "pine-lodge",
-      "name": "Pine Lodge",
-      "place": "Ettrickbridge, Scottish Borders",
-      "price": "£599,000+",
-      "status": "Previously reported",
-      "date": "1 Jul 2026",
-      "summary": "Former coaching inn; 7.5 acres, annexe, barn and Ettrick Valley setting.",
-      "fish": "Nearby Ettrick Water fishing advertised; frontage unconfirmed",
-      "rail": "Poor",
-      "risks": "Confirm fishing parcel",
-      "score": "",
-      "link": "",
-      "image_hint": "",
-      "thumb": "",
-      "thumb_source": "",
-      "check": {
-        "at": "2026-11-13T11:41Z"
-      },
-      "lat": 55.515,
-      "lon": -2.97,
       "geo": "locality"
     },
     {
