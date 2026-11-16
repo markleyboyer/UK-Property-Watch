@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15",
+ "updated": "2026-11-16",
  "refreshed_at": "2026-11-15T05:21Z",
  "properties": [
   {
@@ -80,9 +80,9 @@
   {
    "id": "the-milton",
    "name": "The Milton",
-   "place": "Open listing gallery",
+   "place": "Auchterarder, Perth & Kinross, Scotland",
    "price": "£750,000",
-   "status": "Previously tracked",
+   "status": "For sale · checked 16 Nov 2026",
    "date": "6 Oct or earlier",
    "summary": "6.3 acres · orchard · polytunnels · productive garden · stream · salmon/trout rights · mill",
    "fish": "Unconfirmed",
@@ -97,7 +97,10 @@
     "at": "2026-11-15T05:21Z",
     "http": 200,
     "state": "ok"
-   }
+   },
+   "lat": 56.2944,
+   "lon": -3.7109,
+   "geo": "locality"
   },
   {
    "id": "boat-road",
