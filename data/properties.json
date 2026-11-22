@@ -850,6 +850,48 @@
    "lat": 55.23,
    "lon": -2.18,
    "geo": "locality"
+  },
+  {
+   "id": "glenbuckie-house-comrie",
+   "name": "Glenbuckie House",
+   "place": "Drummond Street, Comrie, Perthshire",
+   "price": "Offers over £695,000",
+   "status": "For sale · checked 21 Nov 2026",
+   "date": "Savills, photos Aug 2026",
+   "summary": "Victorian house with seven bedrooms and three receptions in Comrie Conservation Area; 0.95 acres of gardens bounded by the River Lednock.",
+   "fish": "No fishing advertised on the page; River Lednock forms the eastern boundary (meets the River Earn nearby) – any angling rights unconfirmed, title unverified",
+   "rail": "Not stated; nearest stations not given by agent",
+   "risks": "Village-centre plot so limited privacy; no fishing advertised; listing page did not show price (taken from Savills related-properties card); listed status not stated",
+   "score": "",
+   "link": "https://search.savills.com/property-detail/gbperspes240148",
+   "image_hint": "",
+   "thumb": "",
+   "thumb_source": "",
+   "check": {},
+   "lat": 56.373,
+   "lon": -3.997,
+   "geo": "locality"
+  },
+  {
+   "id": "mill-house-penicuik",
+   "name": "Mill House",
+   "place": "Penicuik, Midlothian (River North Esk)",
+   "price": "c. £795,000 (inferred from Savills LBTT link; confirm)",
+   "status": "For sale · checked 21 Nov 2026",
+   "date": "Savills, photos Aug 2026",
+   "summary": "Renovated and extended four-bed country home in a secluded riverside setting; 3.79 acres of gardens, mature woodland and North Esk frontage, plus a 20-kennel business building.",
+   "fish": "Riverside frontage advertised on the River North Esk; no fishing rights advertised – title unverified",
+   "rail": "Not stated; Edinburgh about 10 miles by road",
+   "risks": "Not clearly historic or listed; kennels complex may be unwanted; private water supply and septic tank; neighbour's access right over part of the drive; price not shown explicitly on the page",
+   "score": "",
+   "link": "https://search.savills.com/property-detail/gbedrseds260176",
+   "image_hint": "",
+   "thumb": "",
+   "thumb_source": "",
+   "check": {},
+   "lat": 55.829,
+   "lon": -3.222,
+   "geo": "locality"
   }
  ]
 }
